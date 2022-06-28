@@ -1,0 +1,64 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Apr  3 12:26:41 2022
+
+@author: matcr
+"""
+
+# Je ne sais pas pourquoi mais le 1er style ne s'applique pas, c'est pourquoi j'ai crée le style vide
+.vide
+{
+}
+.center
+{
+  text-align : center;
+}
+.bold
+{
+  font-weight: bold;
+}
+.underline
+{
+  text-decoration: underline;
+}
+.greenback
+{
+  background-color: green;
+}
+.lightgreenback
+{
+  background-color: lightgreen;
+}
+.redback
+{
+  background-color: red;
+}
+.align
+{
+  margin-bottom: 19px;
+}
+div.stButton > button:first-child
+{ 
+height: 2em;
+width: 3.5em; 
+}
+.redtext
+{
+color: red;
+}
+.greentext
+{
+color: green;
+}
+.lightgreentext
+{
+color: lightgreen;
+}
+.big
+{
+font-size: x-large;
+}
+.justify
+{
+text-align: justify;
+}
